@@ -18,7 +18,6 @@ class PdfServiceProvider extends ServiceProvider {
 	 */
 	public function boot()
 	{
-		$this->package('thujohn/pdf');
 	}
 
 	/**
