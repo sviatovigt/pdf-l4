@@ -1,5 +1,5 @@
 {
-    "name": "thujohn/pdf",
+    "name": "sviatovigt/pdf",
     "description": "dompdf for Laravel 4",
 	"keywords": ["pdf", "dompdf", "laravel", "laravel4"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Thujohn\\Pdf": "src/"
+            "Sviatovigt\\Pdf": "src/"
         }
     },
     "minimum-stability": "dev"
